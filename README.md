@@ -1,6 +1,7 @@
 ## Hey, I'm Henrique 👋
 
-
+🇧🇷 Born in Alagoas, Brazil<br>
+🇳🇱 Living in Maceió, Alagoas <br>
 💻 Web developer with:
   - HTML
   - CSS
@@ -9,9 +10,6 @@
   - ReactJS
   - React Native
   
-🇧🇷 Born in Alagoas, Brazil<br>
-🇳🇱 Living in Maceió, Alagoas
-
 ## What i'm work on ⚡
 
 I am currently working on developing my portfolio to expand my knowledge of the user interface and add to my front-end developer skills.

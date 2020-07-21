@@ -1,7 +1,7 @@
 ## Hey, I'm Henrique 👋
 
 🇧🇷 Born in Alagoas, Brazil<br>
-🇳🇱 Living in Maceió, Alagoas <br>
+🇧🇷 Living in Maceió, Alagoas <br>
 💻 Web developer with:
   - HTML
   - CSS

@@ -1,4 +1,27 @@
-### Hi there 👋
+## Hey, I'm Henrique 👋
+
+
+💻 Web developer with:
+  - HTML
+  - CSS
+  - JavaScript
+  - TypeScript
+  - ReactJS
+  - React Native
+  
+🇧🇷 Born in Alagoas, Brazil<br>
+🇳🇱 Living in Maceió, Alagoas
+
+## What i'm work on ⚡
+
+I am currently working on developing my portfolio to expand my knowledge of the user interface and add to my front-end developer skills.
+
+## How to reach me 📫
+
+🚀 [Site](https://henryxavierb.github.io/dev-portfolio/) <br>
+🐦 [Twitter](https://twitter.com/Henry_bhx) <br>
+📸 [Instagram](https://www.instagram.com/bh_xavier) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/henrique-barros-xavier-706a04178/)
 
 <!--
 **Henryxavierb/henryxavierb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 🇧🇷 Born in Alagoas, Brazil<br>
 🇧🇷 Living in Maceió, Alagoas <br>
-💻 Web developer at Labbits, in Brazil <br>
+💻 Web developer at Softwrap, in Brazil <br>
 💻 Web developer with:
   - HTML
   - CSS

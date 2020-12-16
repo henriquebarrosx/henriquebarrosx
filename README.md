@@ -1,6 +1,5 @@
 ## Hey, I'm Henrique 👋
 
-🇧🇷 Born in Alagoas, Brazil<br>
 🇧🇷 Living in Maceió, Alagoas <br>
 💻 Web developer at Softwrap, in Brazil <br>
 💻 Web developer with:

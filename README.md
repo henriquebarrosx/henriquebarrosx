@@ -3,21 +3,22 @@
 🇧🇷 Living in Maceió, Alagoas <br>
 💻 Web developer at Softwrap, in Brazil <br>
 💻 Web developer with:
-  - HTML
-  - CSS
-  - JavaScript
-  - TypeScript
-  - Nodejs
-  - ReactJS
-  - React Native
-  
-## What i'm work on ⚡
-
-I am currently working on developing my portfolio to expand my knowledge of the user interface and add to my front-end developer skills.
+-Git
+-CSS
+-HTML
+-Redux
+-NodeJS
+-ReactJS
+-Angular
+-Postgres
+-Firebase
+-Sequelize
+-JavaScript
+-React Native
 
 ## How to reach me 📫
 
-🚀 [Site](https://henryxavierb.github.io/dev-portfolio/) <br>
+🚀 [Site](https://portfolio-peach-nine.vercel.app/) <br>
 🐦 [Twitter](https://twitter.com/Henry_bhx) <br>
 📸 [Instagram](https://www.instagram.com/bh_xavier) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/henrique-barros-xavier-706a04178/)

@@ -1,20 +1,7 @@
 ## Hey, I'm Henrique 👋
 
 🇧🇷 Living in Maceió, Alagoas <br>
-💻 Web developer at Softwrap, in Brazil <br>
-💻 Web developer with:
--Git
--CSS
--HTML
--Redux
--NodeJS
--ReactJS
--Angular
--Postgres
--Firebase
--Sequelize
--JavaScript
--React Native
+💻 Web developer at Instituto de Tecnologia de Alagoas (ITEC), in Brazil <br>
 
 ## How to reach me 📫
 

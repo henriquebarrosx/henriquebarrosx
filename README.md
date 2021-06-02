@@ -1,7 +1,7 @@
 ## Hey, I'm Henrique 👋
 
 🇧🇷 Living in Maceió, Alagoas <br>
-💻 Web developer at Instituto de Tecnologia de Alagoas (ITEC), in Brazil <br>
+💻 Mobile Developer at Instituto de Tecnologia de Alagoas (ITEC), in Brazil <br>
 
 ## How to reach me 📫
 

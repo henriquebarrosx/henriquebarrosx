@@ -6,10 +6,10 @@
 
 ## How to reach me 📫
 
-🚀 [Site](https://portfolio-peach-nine.vercel.app/) <br>
-🐦 [Twitter](https://twitter.com/Henry_bhx) <br>
-📸 [Instagram](https://www.instagram.com/bh_xavier) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/henrique-barros-xavier-706a04178/)
+🚀 [Site](https://henriquebarrosx.com.br/) <br>
+🐦 [Twitter](https://twitter.com/henriquebx__) <br>
+📸 [Instagram](https://www.instagram.com/bh_xavier/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/henriquebarrosx/)
 
 <!--
 **Henryxavierb/henryxavierb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

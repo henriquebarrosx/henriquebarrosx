@@ -1,6 +1,6 @@
 ## Hey, I'm Henrique 👋
 
-🇧🇷 Living in Maceió, Alagoas <br>
+Living in Maceió, Alagoas <br>
 
 ## How to reach me 📫
 

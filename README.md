@@ -1,22 +1,22 @@
 ## Sobre mim 👋
 
-Me chamo Henrique Barros, formado em _Análise e Desenvolvimento de Sistemas_ e trabalho com programação +4 anos. Tenho experiência em JavaScript, TypeScript, Node.js, Vue.js React.js e React Native. Proficiente em testes automatizados utilizando Jest, Vitest e Testing Library. Busco oportunidades para migrar para o backend utilizando Java, aplicando minhas habilidades e contribuindo de forma significativa para o sucesso de projetos.
+Desenvolvedor Full Stack com mais de 5 anos de experiência, apaixonado por construir soluções e experiências através da tecnologia, atuando na implementação e manutenção de sistemas robustos usando tecnologias como: JavaScript; TypeScript; Angular; Java; Spring Framework; Spring Boot; ferramentas de testes como Jest, Karma, JUnit e Mockito; RabbitMQ para mensageria, Docker, PostgreSQL, Nginx, Jenkins e muito mais.
 
-Competências:
+## Competências
 
-- Linguagens de programação: Java, JavaScript e TypeScript.
-- Desenvolvimento com o Spring Framework e Spring Boot.
+- Linguagens de programação: Java, JavaScript, TypeScript e Elixir.
+- Desenvolvimento de APIs com o Spring Framework e Spring Boot.
+- Desenvolvimento de APIs com Node.js
+- Desenvolvimento de aplicações de tempo real com o Phoenix Framework.
+- Desenvolvimento de SPA com o Angular, React, React Native.
+- Ferramentas de testes: Jest e Karma (JavaScript) | JUnit e Mockito (Java)
 - Conhecimento em mensageria (Rabbitmq)
-- Desenvolvimento com o React.js (Next.js / Vite / CRA) e React Native.
-- Ferramentas de testes: Jest e Testing Library (JavaScript) | JUnit e Mockito (Java)
 - Versionamento de código (Git)
 - Containers com Docker/Docker Compose
 - Pipelines CI/CD com Jenkins
-- Angular
-- Vue.js
-- Node.js
 - Nginx
-- Conhecimento de linguagem SQL (Postgres)
+- PostgreSQL
+
 
 ## Onde me encontrar? 📫
 
